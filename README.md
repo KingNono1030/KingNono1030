@@ -6,6 +6,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKingNono1030&count_bg=%235A0B36&title_bg=%23FBBDDF&icon=&icon_color=%23C42828&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingNono1030)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 KingNono1030/KingNono1030 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
