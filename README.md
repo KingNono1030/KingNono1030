@@ -17,26 +17,8 @@
 - 지도·미디어 중심 UI에서의 렌더링 성능 관리
 - 단일 기능을 웹/모바일로 확장할 때의 설계 기준
 
-### Core (Web)
-- React
-- TypeScript
-- Next.js
-- Tailwind CSS
-- TanStack Query
-- Zustand
-
-### Mobile
-- Flutter
-- Dart
-
-### Tools & Collaboration
-- pnpm
-- ESLint / Prettier
-- Figma
-- Notion
-- Slack
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingNono1030)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingNono1030&hide=stars,contribs,prs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&commits_year=2025&theme=cobalt&rank_icon=percentile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingNono1030&langs_count=5&layout=donut)
 
 <div style='display:flex;'>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
