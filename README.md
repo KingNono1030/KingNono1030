@@ -1,10 +1,40 @@
-- 👋 안녕하세요! 저는 프론트엔드 개발자 취업을 목표로 공부하는 정윤호입니다.
-- 👀 저는 리액트, 타입스크립트, 넥스트 개발 경험이 있어요!
-- 🌱 최근 가장 관심이 가는 주제는 컴포넌트 최적화입니다.
-- 💞️ 유저 경험 향상에 관심이 많고, 성능 및 로딩 최적화를 통해 이를 이루고자 합니다.
-- 📫 제 이메일로 연락 주세요 : hoejy0821@gmail.comn
+👋 안녕하세요.  
+여행 서비스 도메인에서 웹과 모바일을 함께 다루는 프론트엔드 엔지니어 정윤호입니다.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKingNono1030&count_bg=%235A0B36&title_bg=%23FBBDDF&icon=&icon_color=%23C42828&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+✈️ 신발끈 여행사에서
+- Next.js 기반 웹 서비스 개선 및 레거시 시스템 전환
+- Flutter 기반 셀프가이드 모바일 앱 개발
+을 담당하고 있습니다.
+
+📱 Mobile (Flutter)
+- 셀프가이드 여행자를 위한 오프라인 중심 모바일 앱 개발
+- 지도 기반 UI 및 여행 동선 시각화
+- 네트워크 환경이 불안정한 지역을 고려한 UX 설계
+
+👀 관심 있는 주제
+- 웹(Next.js)과 모바일(Flutter) 간 사용자 경험 일관성
+- 저사양·저네트워크 환경을 고려한 성능 최적화
+- 지도·미디어 중심 UI에서의 렌더링 성능 관리
+- 단일 기능을 웹/모바일로 확장할 때의 설계 기준
+
+### Core (Web)
+- React
+- TypeScript
+- Next.js
+- Tailwind CSS
+- TanStack Query
+- Zustand
+
+### Mobile
+- Flutter
+- Dart
+
+### Tools & Collaboration
+- pnpm
+- ESLint / Prettier
+- Figma
+- Notion
+- Slack
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingNono1030)](https://github.com/anuraghazra/github-readme-stats)
 
