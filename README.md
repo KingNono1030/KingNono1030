@@ -18,7 +18,7 @@
 - 단일 기능을 웹/모바일로 확장할 때의 설계 기준
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingNono1030&hide=stars,contribs,prs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&commits_year=2025&theme=cobalt&rank_icon=percentile)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingNono1030&langs_count=5&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingNono1030&langs_count=5&layout=donut-vertical&stats_format=bytes)
 
 <div style='display:flex;'>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
